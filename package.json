@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-githubpages",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This plugin is for father's better deployment on github pages",
   "authors": {
     "name": "chenshuai2144",
