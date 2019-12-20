@@ -2,6 +2,8 @@
 
 [![NPM version](https://img.shields.io/npm/v/umi-plugin-githubpages.svg?style=flat)](https://npmjs.org/package/umi-plugin-githubpages) [![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-githubpages.svg?style=flat)](https://npmjs.org/package/umi-plugin-githubpages)
 
+This plugin is for father's better deployment on github pages
+
 ## Install
 
 ```bash
