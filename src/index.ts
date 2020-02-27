@@ -3,7 +3,7 @@ import path from 'path';
 import { IApi } from 'umi';
 
 export default function(api: IApi, options) {
-  api.onBuildComplete(err => {
+  api.onBuildComplete(({ err }) => {
     if (err) {
       return;
     }
